@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=codelabor-visit-counter-example&left_color=green&right_color=red)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/codelabor/visit-counter-example/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
